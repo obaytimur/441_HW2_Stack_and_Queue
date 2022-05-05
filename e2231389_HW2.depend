@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1640464505 source:/home/ogi/Media/e2231389_HW2/src/object_queue.cpp
+	"object_queue.h"
+	"student.h"
+
+1640464505 /home/ogi/Media/e2231389_HW2/include/object_queue.h
+	<iostream>
+	<cstdlib>
+
+1640464505 /home/ogi/Media/e2231389_HW2/include/student.h
+	<iostream>
+	"object_stack.h"
+
+1640464361 /home/ogi/Media/e2231389_HW2/include/object_stack.h
+	<iostream>
+	<cstdlib>
+
+1640464358 source:/home/ogi/Media/e2231389_HW2/src/object_stack.cpp
+	"object_stack.h"
+	"student.h"
+
+1640464505 source:/home/ogi/Media/e2231389_HW2/src/student.cpp
+	"student.h"
+
+1640465033 source:/home/ogi/Media/e2231389_HW2/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"object_queue.h"
+	"object_stack.h"
+	"student.h"
+	"string"
+
